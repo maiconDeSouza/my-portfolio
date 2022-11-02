@@ -12,7 +12,7 @@ export function Nav(){
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to="/teste">
+                    <NavLink to="/about-me">
                         <User size={23}/>
                     </NavLink>
                 </li>
