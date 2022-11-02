@@ -2,7 +2,7 @@ import { PageTitle } from "../PageTitle/PageTitle";
 import { ContainerAboutMe } from "./AboutMe.style";
 
 
-export function Teste(){
+export function AboutMe(){
     return (
         <ContainerAboutMe className="animate__animated animate__zoomIn">
             <PageTitle text="Quem Sou"/>

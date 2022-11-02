@@ -17,7 +17,7 @@ export function Nav(){
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to="/1">
+                    <NavLink to="/stacks">
                         <StackOverflowLogo size={23}/>
                     </NavLink>
                 </li>
