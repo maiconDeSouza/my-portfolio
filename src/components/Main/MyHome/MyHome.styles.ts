@@ -2,7 +2,7 @@ import styled from "styled-components";
 import bgImage  from '../../../assets/star1.gif'
 
 export const ContainerMyHome = styled.section`
-    height: 100%;
+    min-height: 100%;
     padding: 5rem;
 
     background-image: url(${bgImage});

@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const ContainerTech = styled.div`
     display: flex;
     width: 20rem;
-    min-height: 10rem;
+    min-height: 9rem;
     border: 1px solid ${props => props.theme["gold-3"]};
     border-radius: 20px;
 
@@ -27,6 +27,12 @@ export const ContainerTech = styled.div`
 
         span{
             font-size: 0.775rem;
+        }
+    }
+
+    &:hover{
+        .icon{
+            transform: scale(1.2);
         }
     }
 `

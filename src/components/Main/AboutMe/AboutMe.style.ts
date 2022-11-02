@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ContainerAboutMe = styled.section`
-    max-height: 100%;
+    min-height: 100%;
     padding: 1rem;
 
     background-color: ${props => props.theme["blue-4"]};
