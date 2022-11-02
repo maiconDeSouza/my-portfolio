@@ -4,7 +4,7 @@ import { Tech } from '../Tech/Tech'
 import { arrayTech } from "../../../db/tech";
 export function MyStack(){
     return (
-        <ContainerMyStack className="animate__animated animate__zoomIn">
+        <ContainerMyStack className="animate__animated animate__zoomInDown">
             <PageTitle text="TECNOLOGIAS" />
             <main>
                 {

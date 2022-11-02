@@ -4,7 +4,7 @@ import { ContainerAboutMe } from "./AboutMe.style";
 
 export function AboutMe(){
     return (
-        <ContainerAboutMe className="animate__animated animate__zoomIn">
+        <ContainerAboutMe className="animate__animated animate__slideInDown">
             <PageTitle text="Quem Sou"/>
             <main>
                 <article>

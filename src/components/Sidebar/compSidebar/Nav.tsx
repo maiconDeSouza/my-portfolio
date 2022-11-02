@@ -22,7 +22,7 @@ export function Nav(){
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to="/2">
+                    <NavLink to="/portfolio">
                         <Desktop size={23}/>
                     </NavLink>
                 </li>

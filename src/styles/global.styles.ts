@@ -21,7 +21,8 @@ export const GloboStyle = createGlobalStyle`
         font-size: 1rem;
     }
 
-    .animate__animated.animate__zoomIn{
+    :root{
         --animate-duration: 2s;
     }
+
 `
