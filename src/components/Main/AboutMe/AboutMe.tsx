@@ -1,15 +1,11 @@
+import { PageTitle } from "../PageTitle/PageTitle";
 import { ContainerAboutMe } from "./AboutMe.style";
 
 
 export function Teste(){
     return (
         <ContainerAboutMe className="animate__animated animate__zoomIn">
-            <header>
-                <h2>QUEM SOU</h2>
-                <div>
-                    <span></span><span></span><span></span>
-                </div>
-            </header>
+            <PageTitle text="Quem Sou"/>
             <main>
                 <article>
                     <div className="title">
