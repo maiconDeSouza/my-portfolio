@@ -20,7 +20,7 @@ export function AboutMe(){
                         <p>
                             A Maior parte da minha vida passei trabalhando com vendas de equipamentos de 
                             ginástica e acabei também me apaixonando pela área. Neste período trabalhei 
-                            fazendo atendimentos internos nas lojas e também realizando visitas 
+                            em lojas fazendo atendimentos internos  e também realizando visitas 
                             diretamente em clientes como Academias e Condomínios. E foi com condomínios 
                             que eu trouxe uma solução que se tornou um dos meus maiores diferenciais para 
                             este segmento, que foi a criação de layouts 3D usando o SketchUp. Algo que 

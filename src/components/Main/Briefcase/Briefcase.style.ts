@@ -61,5 +61,44 @@ export const ConatinerBriefcase = styled.div<PropsBriefcase>`
         border: 1px solid ${props => props.theme["gold-3"]};
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
+
+        padding: 1rem 1rem;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        ul{
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+
+            li{
+                width: 3rem;
+                height: 3rem;
+                border: 1px solid ${props => props.theme["gray-1"]};
+                border-radius: 50%;
+
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                cursor: pointer;
+
+                &:hover{
+                border: 1px solid ${props => props.theme["gold-3"]};
+                a{
+                    svg{
+                        color: ${props => props.theme["gold-3"]};
+                    }
+                }
+                }
+                a{
+                    svg{
+                        color: ${props => props.theme["gray-1"]};
+                    }
+                }
+            }
+        }
     }
 `

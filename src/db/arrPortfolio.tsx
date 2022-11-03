@@ -33,6 +33,12 @@ export const arrPortfolio = [
                 nameComponent: "Style-Components"
             }
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/todolist-ts-react"
+            }
+        ]
     },
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/crazy-login/crazy.gif",
@@ -52,6 +58,16 @@ export const arrPortfolio = [
                 nameComponent: "JavaScript"
             }
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/crazylogin"
+            },
+            {
+                hostType: "hosted",
+                url: ""
+            }
+        ]
     },
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/lista-de-tarefas-vuejs/rodando.gif",
@@ -71,6 +87,12 @@ export const arrPortfolio = [
                 nameComponent: "VueJS"
             }
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/lista-de-tarefas-com-vueJS"
+            }
+        ]
     },
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/API-Restful/crud.gif",
@@ -92,6 +114,12 @@ export const arrPortfolio = [
             },
             
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/api-restful"
+            }
+        ]
     },
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/countdown/lancamento.gif",
@@ -112,6 +140,12 @@ export const arrPortfolio = [
                 nameComponent: "VueJS"
             }
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/countdown"
+            }
+        ]
     },
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/feed/feed.gif",
@@ -135,6 +169,12 @@ export const arrPortfolio = [
                 nameComponent: "TypeScript"
             }
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/feed-react"
+            }
+        ]
     },
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/loterias/rodando.gif",
@@ -150,6 +190,12 @@ export const arrPortfolio = [
                 nameComponent: "ExpressJS"
             }
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/loterias"
+            }
+        ]
     },
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/projeto-monstro/rodando.gif",
@@ -169,6 +215,12 @@ export const arrPortfolio = [
                 nameComponent: "VueJS"
             }
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/jogo-derrote-o-monstro-vuejs"
+            }
+        ]
     },
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/barber-shop/roda-min.gif",
@@ -184,6 +236,12 @@ export const arrPortfolio = [
                 nameComponent: "CSS3"
             }
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/projeto-barber-shop"
+            }
+        ]
     },
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/timekeeper/web.gif",
@@ -203,5 +261,11 @@ export const arrPortfolio = [
                 nameComponent: "JavaScript"
             }
         ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/timekeeper-cronometro"
+            }
+        ]
     }
 ]
