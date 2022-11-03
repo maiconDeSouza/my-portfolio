@@ -9,10 +9,10 @@ export function Contact(){
             <PageTitle text="CONTATO" />
             <main>
                 <div className="linkedin">
-                    <a href="https://www.linkedin.com/in/maicon-pereira-de-souza-00b437253/" target="_blank">
+                    <a href="www.linkedin.com/in/mcn09" target="_blank">
                         <SiLinkedin size={60}/>
                         <h4>Linkedin</h4>
-                        <span>Linkedin</span>
+                        <span>www.linkedin.com/in/mcn09</span>
                     </a>
                 </div>
                 <div className="email">
