@@ -12,6 +12,11 @@
 <p>
     Aproveitei que tinha que praticar um pouco e criei este portfólio utilizando TypeScript, reactJS e outros recursos do ecossistema reactJS.
 </p>
+<p>
+    <a href="https://portfolio.maiconsouza.com.br/" target="_blank">
+        Acesse meu Portfólio 
+    </a>
+</p>
 <img 
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/my-portfolio/my-portfolio.gif"
 />
