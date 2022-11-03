@@ -71,5 +71,13 @@ export const ContainerMyHome = styled.section`
             }
         }
     }
+
+
+    @media (max-width: 576px){
+        h1{
+            font-size: 2rem;
+            text-align: center;
+        }
+    }
 `
 

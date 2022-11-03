@@ -20,4 +20,10 @@ export const ContainerMyStack = styled.section`
         flex-wrap: wrap;
         gap: 1rem;
     }
+
+    @media (max-width: 576px){
+        main{
+            margin-bottom: 3rem;
+        }
+    }
 `

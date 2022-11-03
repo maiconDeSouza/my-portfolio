@@ -101,4 +101,27 @@ export const ConatinerBriefcase = styled.div<PropsBriefcase>`
             }
         }
     }
+
+    @media (max-width: 576px){
+        
+        header{
+            height: 10rem;
+            background-size: contain;
+        }
+
+        footer{
+            ul{
+                li{
+                    width: 2rem;
+                    height: 2rem;
+
+                    a{
+                        svg{
+                            width: 18px;
+                        }
+                    }
+                }
+            }
+        }
+    }
 `

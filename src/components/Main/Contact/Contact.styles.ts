@@ -3,7 +3,7 @@ import bgImage  from '../../../assets/star1.gif'
 
 
 export const ContainerContact = styled.section`
-    height: 100%;
+    min-height: 100%;
     padding: 1rem;
 
     background-image: url(${bgImage});
@@ -75,5 +75,13 @@ export const ContainerContact = styled.section`
     }
     }
 
+    @media (max-width: 576px){
+        gap: 5rem;
+        main{
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-bottom: 4rem;
+        }
+    }
     
 `

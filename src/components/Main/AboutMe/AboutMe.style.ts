@@ -52,4 +52,11 @@ export const ContainerAboutMe = styled.section`
             } 
         }
     }
+
+
+    @media (max-width: 576px){
+        main{
+            margin-bottom: 4rem;
+        }
+    }
 `
