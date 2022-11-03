@@ -18,14 +18,15 @@ export function AboutMe(){
                             minha família, por tecnologia, por Futebol e pela Natureza.
                         </p>
                         <p>
-                            A Maior parte da minha vida passei trabalhando com vendas de equipamentos de 
-                            ginástica e acabei também me apaixonando pela área. Neste período trabalhei 
-                            em lojas fazendo atendimentos internos  e também realizando visitas 
-                            diretamente em clientes como Academias e Condomínios. E foi com condomínios 
-                            que eu trouxe uma solução que se tornou um dos meus maiores diferenciais para 
-                            este segmento, que foi a criação de layouts 3D usando o SketchUp. Algo que 
-                            foi se tornando quase um padrão para as lojas, pois, existia a necessidade 
-                            que os moradores dos condomínios pudessem ver com ficária a sala de ginástica 
+                            A Maior parte da minha vida profissional atuei com vendas de equipamentos 
+                            de ginástica, e também acabei me apaixonando por essa área. Neste período 
+                            trabalhei em lojas fazendo atendimentos internos e também realizando 
+                            visitas diretamente em clientes como Academias e Condomínios. E foi com 
+                            condomínios que eu trouxe uma solução que se tornou um dos meus maiores 
+                            diferenciais para este segmento, que foi a criação de layouts 3D usando o 
+                            SketchUp que aprendi por iniciativa própria. Essa prática que foi se 
+                            tornando quase um padrão para as lojas, pois, existia a necessidade que 
+                            os moradores dos condomínios pudessem ver com ficária a sala de ginástica 
                             deles.
                         </p>
                         <p>

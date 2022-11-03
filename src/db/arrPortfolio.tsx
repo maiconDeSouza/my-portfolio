@@ -136,8 +136,8 @@ export const arrPortfolio = [
                 nameComponent: "CSS3"
             },
             {
-                icon: <SiVuedotjs color='#42b883' size={23} />,
-                nameComponent: "VueJS"
+                icon: <SiJavascript color='#f0db4f' size={23} />,
+                nameComponent: "JavaScript"
             }
         ],
         host: [
@@ -159,10 +159,6 @@ export const arrPortfolio = [
             {
                 icon: <SiCss3 color='#264de4' size={23}/>,
                 nameComponent: "CSS3"
-            },
-            {
-                icon: <SiJavascript color='#f0db4f' size={23} />,
-                nameComponent: "JavaScript"
             },
             {
                 icon: <SiTypescript color="#007acc" size={23}/>,

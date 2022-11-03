@@ -3,8 +3,8 @@ import bgImage  from '../../../assets/star1.gif'
 
 
 export const ContainerContact = styled.section`
-    min-height: 100%;
-    padding: 5rem;
+    height: 100%;
+    padding: 1rem;
 
     background-image: url(${bgImage});
     background-position: center;
@@ -12,11 +12,18 @@ export const ContainerContact = styled.section`
     background-size: cover;
 
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 5rem;
 
-    div{
+    main{
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+
+        div{
             a{
                 display: flex;
                 flex-direction: column;
@@ -66,4 +73,7 @@ export const ContainerContact = styled.section`
             }
         }
     }
+    }
+
+    
 `

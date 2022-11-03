@@ -12,7 +12,7 @@ export const arrayTech = [
     {
         url: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
         nameTech: "JAVASCRIPT",
-        text: "Conhecimento bem Avançado"
+        text: "Conhecimento Avançado"
     },
     {
         url: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
@@ -22,7 +22,7 @@ export const arrayTech = [
     {
         url: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
         nameTech: "REACT",
-        text: "Um bom Conhecimento em ReactJS. E finalizando p Curso da Rocketseat"
+        text: "Um bom Conhecimento em ReactJS. E finalizando o Curso da Rocketseat"
     },
     {
         url: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg",
