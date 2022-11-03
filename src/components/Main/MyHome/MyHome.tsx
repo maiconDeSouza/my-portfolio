@@ -19,7 +19,7 @@ meus            projetos.
                         </a>
                     </li>
                     <li title="Linkedin">
-                        <a href="www.linkedin.com/in/mcn09" title="Linkedin" target="_blank">
+                        <a href="https://www.linkedin.com/in/mcn09" title="Linkedin" target="_blank">
                             <SiLinkedin size={18} title="Linkedin"/>
                         </a>
                     </li>
