@@ -1,20 +1,44 @@
 import { ConatinerBriefcase } from "./Briefcase.style";
 
-interface PropsBriefcase{
-    end: string;
+
+interface objInterface {
+    gif: string;
+    nameProject: string;
+    description: string;
+    position?:string;
+    component: any;
 }
 
-export function Briefcase({end}:PropsBriefcase){
+interface PropsBriefcase{
+    obj: objInterface
+}
+
+
+export function Briefcase({obj}:PropsBriefcase){
     return (
-        <ConatinerBriefcase end={end}>
+        <ConatinerBriefcase gif={obj.gif} position={obj.position}>
             <header>
                 
             </header>
-            <main>
-                
-            </main>
+            <article>
+                <h3>{obj.nameProject}</h3>
+                <p>
+                    {obj.description}
+                </p>
+                <ul>
+                    {
+                        obj.component.map((e:any) => {
+                            return (
+                                <li key={e.nameComponent} title={e.nameComponent}>
+                                    {e.icon} {e.nameComponent}
+                                </li>
+                            )
+                        })
+                    }
+                </ul>
+            </article>
             <footer>
-                
+                <span>Confira todas as informações completas de desse projeto no GitHub.</span>
             </footer>
         </ConatinerBriefcase>
     )

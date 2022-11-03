@@ -11,7 +11,7 @@ export const ContainerMyPotfolio = styled.section`
     main{
         padding: 2rem;
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
         flex-wrap: wrap;
         gap: 5rem;

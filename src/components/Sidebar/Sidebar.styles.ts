@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const ContainerSidebar = styled.aside`
     width: 128px;
-
+    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: space-between;

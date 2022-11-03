@@ -1,7 +1,8 @@
 import styled from "styled-components";
 
 export const ContainerNav = styled.nav`
-    /* position: fixed; */
+    position: fixed;
+    bottom: calc(50vh - 9rem);
     width: 2.5rem;
     height: 18rem;
     background-color: ${props => props.theme["blue-4"]};
