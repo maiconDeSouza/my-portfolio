@@ -4,6 +4,7 @@ import { Main } from '../components/Main/Main'
 import { MyStack } from '../components/Main/MyStack/MyStack'
 import { AboutMe } from '../components/Main/AboutMe/AboutMe'
 import { MyPortfolio } from '../components/Main/MyPortfolio/MyPortfolio'
+import { Contact } from '../components/Main/Contact/Contact'
 
 
 export function Router(){
@@ -14,6 +15,7 @@ export function Router(){
                 <Route path='/about-me'  element={<AboutMe />}/>
                 <Route path='/stacks'  element={<MyStack />}/>
                 <Route path='/portfolio'  element={<MyPortfolio />}/>
+                <Route path='/contact'  element={<Contact />}/>
             </Route>
         </Routes>
     )

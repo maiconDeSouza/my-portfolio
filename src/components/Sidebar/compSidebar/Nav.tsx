@@ -27,7 +27,7 @@ export function Nav(){
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to="/3">
+                    <NavLink to="/contact">
                         <ChatCircle size={23}/>
                     </NavLink>
                 </li>
