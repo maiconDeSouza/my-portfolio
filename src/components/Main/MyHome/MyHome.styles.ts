@@ -41,8 +41,8 @@ export const ContainerMyHome = styled.section`
             
 
             li{
-                width: 2rem;
-                height: 2rem;
+                width: 3rem;
+                height: 3rem;
                 border: 1px solid ${props => props.theme["gray-1"]};
                 border-radius: 50%;
 
@@ -65,9 +65,6 @@ export const ContainerMyHome = styled.section`
             }
 
             a{
-                display: flex;
-                justify-content: center;
-                align-self: center;
                 svg{
                     color: ${props => props.theme["gray-1"]};
                 }

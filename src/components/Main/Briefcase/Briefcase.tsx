@@ -1,5 +1,5 @@
 import { ConatinerBriefcase } from "./Briefcase.style";
-import { SlSocialGithub } from "react-icons/sl"
+import { SiGithub } from "react-icons/si"
 import { MdOutlineWeb } from "react-icons/md"
 interface hostInterface {
     hostType: string;
@@ -52,7 +52,7 @@ export function Briefcase({obj}:PropsBriefcase){
                                 return (
                                     <li key={e.url} title="Projeto no GitHub">
                                         <a href={e.url} target="_blank" title="Projeto no GitHub">
-                                            <SlSocialGithub size={25} title="Projeto no GitHub"/>
+                                            <SiGithub size={25} title="Projeto no GitHub"/>
                                         </a>
                                     </li>
                                 )

@@ -1,4 +1,4 @@
-import { GithubLogo, InstagramLogo, LinkedinLogo } from "phosphor-react";
+import { SiGithub, SiInstagram, SiLinkedin } from "react-icons/si"
 import { MyImage } from "../MyImage/MyImage";
 import { ContainerMyHome } from "./MyHome.styles";
 
@@ -14,19 +14,19 @@ export function MyHome(){
             </p>
             <div>
                 <ul>
-                    <li>
-                        <a href="">
-                            <GithubLogo />
+                    <li title="Github">
+                        <a href="" title="Github">
+                            <SiGithub size={18} title="Github" />
                         </a>
                     </li>
-                    <li>
-                        <a href="">
-                            <LinkedinLogo />
+                    <li title="Linkedin">
+                        <a href="" title="Linkedin">
+                            <SiLinkedin size={18} title="Linkedin"/>
                         </a>
                     </li>
-                    <li>
-                        <a href="">
-                            <InstagramLogo />
+                    <li title="Instagram">
+                        <a href="" title="Linkedin">
+                            <SiInstagram size={18} title="Linkedin"/>
                         </a>
                     </li>
                 </ul>
