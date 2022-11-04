@@ -37,6 +37,10 @@ export const arrPortfolio = [
             {
                 hostType: "github",
                 url: "https://github.com/maiconDeSouza/todolist-ts-react"
+            },
+            {
+                hostType: "hosted",
+                url: "https://todolistreactts.maiconsouza.com.br/"
             }
         ]
     },
@@ -65,7 +69,7 @@ export const arrPortfolio = [
             },
             {
                 hostType: "hosted",
-                url: ""
+                url: "https://crazylogin.maiconsouza.com.br/"
             }
         ]
     },
@@ -91,6 +95,10 @@ export const arrPortfolio = [
             {
                 hostType: "github",
                 url: "https://github.com/maiconDeSouza/lista-de-tarefas-com-vueJS"
+            },
+            {
+                hostType: "hosted",
+                url: "https://todolistvuejs.maiconsouza.com.br/"
             }
         ]
     },
@@ -144,6 +152,10 @@ export const arrPortfolio = [
             {
                 hostType: "github",
                 url: "https://github.com/maiconDeSouza/countdown"
+            },
+            {
+                hostType: "hosted",
+                url: "https://countdown.maiconsouza.com.br/"
             }
         ]
     },
@@ -215,6 +227,10 @@ export const arrPortfolio = [
             {
                 hostType: "github",
                 url: "https://github.com/maiconDeSouza/jogo-derrote-o-monstro-vuejs"
+            },
+            {
+                hostType: "hosted",
+                url: "https://jogomonstro.maiconsouza.com.br/"
             }
         ]
     },
