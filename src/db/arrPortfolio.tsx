@@ -283,7 +283,7 @@ export const arrPortfolio = [
         ]
     },
     {
-        gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/timekeeper/web.gif",
+        gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/petDevShop/Peek%2028-11-2022%2018-28.gif",
         nameProject: "Dev Pet Shop",
         description: "Projeto Feito com NodeJS + TypeScript + Express JS + Mustache",
         component: [
