@@ -10,6 +10,8 @@ import {
     SiMongodb 
 } from 'react-icons/si'
 
+import { SlMustache } from 'react-icons/sl'
+
 export const arrPortfolio = [
     {
         gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/todolist-ts-react/todo-web.gif",
@@ -277,6 +279,39 @@ export const arrPortfolio = [
             {
                 hostType: "github",
                 url: "https://github.com/maiconDeSouza/timekeeper-cronometro"
+            }
+        ]
+    },
+    {
+        gif: "https://raw.githubusercontent.com/maiconDeSouza/assets/master/timekeeper/web.gif",
+        nameProject: "Dev Pet Shop",
+        description: "Projeto Feito com NodeJS + TypeScript + Express JS + Mustache",
+        component: [
+            {
+                icon: <SiNodedotjs color='#3c873a' size={23}/>,
+                nameComponent: "NodeJS"
+            },
+            {
+                icon: <SiTypescript color="#007acc" size={23}/>,
+                nameComponent: "TypeScript"
+            },
+            {
+                icon: <SlMustache color='#F0DB4F' size={23} />,
+                nameComponent: "JavaScript"
+            },
+            {
+                icon: <SiExpress color='#333333' size={23}/>,
+                nameComponent: "ExpressJS"
+            }
+        ],
+        host: [
+            {
+                hostType: "github",
+                url: "https://github.com/maiconDeSouza/petDevShop"
+            },
+            {
+                hostType: "hosted",
+                url: "https://petdevshopmcn.herokuapp.com/"
             }
         ]
     }
